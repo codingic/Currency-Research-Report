@@ -1,0 +1,7 @@
+interface:
+  display_name: "Coin & Stock Report Writer"
+  short_description: "输入币种、链名或股票代码，即可生成并保存专业深度分析报告"
+  default_prompt: "Use $coin-report-writer to research BTC or NVDA and save a professional report document in Simplified Chinese."
+
+policy:
+  allow_implicit_invocation: true
